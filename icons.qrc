@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>mp3player/icon/next.png</file>
+        <file>mp3player/icon/pause.png</file>
+        <file>mp3player/icon/play.png</file>
+        <file>mp3player/icon/pre.png</file>
+        <file>mp3player/icon/search.png</file>
+        <file>mp3player/icon/stop.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/play.png</file>
+        <file>icon/pause.png</file>
+        <file>icon/stop.png</file>
+        <file>icon/search.png</file>
+        <file>icon/equalizer.gif</file>
+        <file>icon/next.png</file>
+        <file>icon/pre.png</file>
+        <file>icon/unshuffle.png</file>
+        <file>icon/mute.png</file>
+        <file>icon/unmute.png</file>
+    </qresource>
+</RCC>
